@@ -1,13 +1,13 @@
 # Site settings
-title: CH Blog
-SEOTitle: charlie的博客 | CH Blog
+title: CHC Blog
+SEOTitle: charlie的博客 | CHC Blog
 header-img: img/post-bg-desk.jpg
 email: charliechen0823@gmail.com
 description: "Every failure is leading towards success."
-keyword: "CH, CH Blog, charlie的博客, charlie, charliechen, iOS, Apple, iPhone"
+keyword: "CHC, CHC Blog, charlie的博客, charlie, charliechen, iOS, Apple, iPhone"
 url: "http://charliechenjames23.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/charliechenjames23/Charliechenjames23.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
